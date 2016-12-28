@@ -1,6 +1,0 @@
-E:\项目\WordReport\WordReportCore\bin\Debug\WordReportCore.dll
-E:\项目\WordReport\WordReportCore\bin\Debug\WordReportCore.pdb
-E:\项目\WordReport\WordReportCore\bin\Debug\Aspose.Words.dll
-E:\项目\WordReport\WordReportCore\obj\Debug\WordReportCore.dll
-E:\项目\WordReport\WordReportCore\obj\Debug\WordReportCore.pdb
-E:\项目\WordReport\WordReportCore\obj\Debug\WordReportCore.csprojResolveAssemblyReference.cache
