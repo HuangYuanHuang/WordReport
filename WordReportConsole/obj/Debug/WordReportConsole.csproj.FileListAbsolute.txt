@@ -1,0 +1,9 @@
+E:\项目\WordReport\WordReportConsole\bin\Debug\WordReportConsole.exe.config
+E:\项目\WordReport\WordReportConsole\bin\Debug\WordReportConsole.exe
+E:\项目\WordReport\WordReportConsole\bin\Debug\WordReportConsole.pdb
+E:\项目\WordReport\WordReportConsole\bin\Debug\WordReportCore.dll
+E:\项目\WordReport\WordReportConsole\bin\Debug\Aspose.Words.dll
+E:\项目\WordReport\WordReportConsole\bin\Debug\WordReportCore.pdb
+E:\项目\WordReport\WordReportConsole\obj\Debug\WordReportConsole.csprojResolveAssemblyReference.cache
+E:\项目\WordReport\WordReportConsole\obj\Debug\WordReportConsole.exe
+E:\项目\WordReport\WordReportConsole\obj\Debug\WordReportConsole.pdb
